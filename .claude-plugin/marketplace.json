@@ -1,0 +1,13 @@
+{
+  "name": "kids-drawing-to-game",
+  "owner": {
+    "name": "Refael Levi"
+  },
+  "plugins": [
+    {
+      "name": "kids-drawing-to-game",
+      "source": "./",
+      "description": "Turn a photo of a child's drawing into a playable, kid-friendly browser game built from the drawing's own cut-out elements."
+    }
+  ]
+}

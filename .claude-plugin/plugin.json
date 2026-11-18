@@ -1,0 +1,11 @@
+{
+  "name": "kids-drawing-to-game",
+  "version": "1.0.0",
+  "description": "Turn a photo of a child's drawing into a playable browser game: the characters and background are cut out of the drawing itself. One offline HTML file, no losing, Hebrew UI, works on desktop, phone and TV remote.",
+  "author": {
+    "name": "Refael Levi",
+    "url": "https://instagram.com/refaelleviii"
+  },
+  "license": "MIT",
+  "keywords": ["kids", "drawing", "game", "html5", "canvas", "family"]
+}
